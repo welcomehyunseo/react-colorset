@@ -1,0 +1,16 @@
+export const light = {
+  backgroundRoot: '#EBECED',
+  backgroundDefault: '#FCFCFC',
+  backgroundHigher: '#F0F1F2',
+  backgroundHighest: '#E4E5E6',
+  backgroundOverlay: '#F0F1F2A0',
+  foregroundDefault: '#07080A',
+  foregroundDimmer: '#3D4047',
+  foregroundDimmest: '#5C5F66',
+  outlineStrongest: '#74767A',
+  outlineStronger: '#98999C',
+  outlineDefault: '#AFB1B3',
+  outlineDefault25: '#AFB1B340',
+  outlineDimmer: '#C0C3C4',
+  outlineDimmest: '#D2D4D6',
+};

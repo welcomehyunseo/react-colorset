@@ -1,0 +1,16 @@
+export const dark = {
+  backgroundRoot: '#0E1525',
+  backgroundDefault: '#1C2333',
+  backgroundHigher: '#2B3245',
+  backgroundHighest: '#3C445C',
+  backgroundOverlay: '#0e1525A0',
+  foregroundDefault: '#F5F9FC',
+  foregroundDimmer: '#C2C8CC',
+  foregroundDimmest: '#9DA2A6',
+  outlineStrongest: '#9195A1',
+  outlineStronger: '#828899',
+  outlineDefault: '#70788C',
+  outlineDefault25: '#70788C40',
+  outlineDimmer: '#5F677A',
+  outlineDimmest: '#4E5569',
+};
