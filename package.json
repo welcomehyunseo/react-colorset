@@ -38,6 +38,9 @@
   "name": "react-colorset",
   "author": "welcomehyunseo",
   "homepage": "https://github.com/welcomehyunseo/react-colorset",
+  "keywords": [
+    "react"
+  ],
   "module": "dist/theme.esm.js",
   "size-limit": [
     {
